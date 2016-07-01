@@ -1,6 +1,6 @@
 name: Rijsttafel
 favicon: null
-layout_spectrum: 0.3305076980032027
+layout_spectrum: 1
 typography_spectrum: 0.24166388087905943
 title: Branding Agency
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.1025005909614265
-  lightness: 0.020439567044377327
-  saturation: 0.40848013246431947
-  rhythmicContrast: 0.8600477366708219
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
