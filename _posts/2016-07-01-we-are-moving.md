@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-01T12:26:52.153Z'
-dateModified: '2016-07-01T12:26:06.576Z'
+datePublished: '2016-07-01T12:27:32.875Z'
+dateModified: '2016-07-01T12:26:59.925Z'
 title: We are moving!
 author: []
 sourcePath: _posts/2016-07-01-we-are-moving.md
