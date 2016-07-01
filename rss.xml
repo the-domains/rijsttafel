@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Branding Agency]]></title>
-        <description><![CDATA[Branding Agency]]></description>
+        <title><![CDATA[With A Great Big Hug]]></title>
+        <description><![CDATA[With A Great Big Hug]]></description>
         <link>https://thegrid.ai/rijsttafel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 12:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 12:26:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rijsttafel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We are moving!]]></title>
             <description><![CDATA[<article><h1>We are moving!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2b745d76d21eef7f135c7e8fbd692b9/croprotate.jpg?cropheight=3712&cropwidth=5558&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb47316b1-9677-496b-9ad3-9ab7c19f793d.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/rijsttafel/we-are-moving/index.html</link>
             <guid isPermaLink="false">04bae1e5-31a6-4acb-9520-e4d7907d3fa4</guid>
-            <pubDate>Fri, 01 Jul 2016 12:22:54 GMT</pubDate>
+            <pubDate>Fri, 01 Jul 2016 12:26:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
